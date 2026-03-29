@@ -92,7 +92,7 @@ The only permanently glued components are the **cup cage sub-assemblies**. The o
 
 ## 🔧 Assembly Overview
 
-> 📖 Full step-by-step visual manual: [**assembly_manual.html**](./assembly_manual.html)
+> 📖 Full step-by-step visual manual: [**assembly_manual.html**](https://diego-mediane.github.io/Three-Chamber-Mouse-Apparatus/assembly_manual.html)
 
 Assembly is split into two phases: **cup assembly** (done once, permanently glued) and **box assembly** (fully removable, slot-fit).
 
