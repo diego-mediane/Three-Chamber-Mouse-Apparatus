@@ -17,17 +17,21 @@
 
 ---
 
-## 🔭 Interactive 3D Preview
+## 🔭 Interactive 3D Assembly Viewer
 
 <div align="center">
 
-> Click below to open the interactive 3D model viewer — rotate, zoom and inspect all components.
+### 👉 [**Launch Interactive 3D Viewer**](https://diego-mediane.github.io/Three-Chamber-Mouse-Apparatus/viewer_3d.html)
 
-### [**▶ Launch Interactive 3D Viewer**](https://diego-mediane.github.io/three-chamber-3d-viewer/)
+[![Open 3D Viewer](https://img.shields.io/badge/3D%20Assembly%20Viewer-Launch%20Interactive%20Preview-black?style=for-the-badge)](https://diego-mediane.github.io/Three-Chamber-Mouse-Apparatus/viewer_3d.html)
 
-[![Open 3D Viewer](https://img.shields.io/badge/3D%20Viewer-Launch%20Interactive%20Preview-black?style=for-the-badge&logo=autodesk)](https://diego-mediane.github.io/three-chamber-3d-viewer/)
+*Step-by-step animated assembly · Rotate · Zoom · Explode view · No software required*
 
-*Powered by Three.js · Opens in browser · No software required*
+### 📖 [**Open Assembly Manual**](https://diego-mediane.github.io/Three-Chamber-Mouse-Apparatus/assembly_manual.html)
+
+[![Assembly Manual](https://img.shields.io/badge/Assembly%20Manual-Open%20Visual%20Guide-333333?style=for-the-badge)](https://diego-mediane.github.io/Three-Chamber-Mouse-Apparatus/assembly_manual.html)
+
+*8-page illustrated step-by-step guide · Opens in browser*
 
 </div>
 
@@ -48,6 +52,22 @@ The only permanently glued components are the **cup cage sub-assemblies**. The o
 - ✅ **One-person assembly** — no specialist tools required
 - ✅ **3D-printable corner clips** — the only non-acrylic structural components (besides rods and screws)
 - ✅ **Open hardware** — design files included
+
+### ⚠️ Fabrication Note — Cutting & Drilling
+
+Most of this apparatus can be built with standard workshop tools. Here is what each part actually needs:
+
+| Part | What's needed |
+|---|---|
+| Base (A) | **Workshop/CNC required** — the perimeter wall slot, two internal partition slots, and two Ø 102 mm cup recesses must be routed or milled to exact depth. This is the only part that truly needs specialist cutting. |
+| Partition walls (D) | Standard workshop — the arched mouse passage can be cut with a jigsaw or bandsaw and sanded smooth |
+| Wall panels (B, C) | Simple straight cuts from IR acrylic sheet — table saw or circular saw |
+| Perforated plates (F, H) | Drill press — evenly spaced holes around the circumference |
+| Lid disc (I) | Drill press — single hole near the edge |
+| All other parts | Standard cuts from sheet |
+
+> **Recommended material:** IR-transparent black acrylic (e.g. Perspex Black 9T31 or equivalent).  
+> Sheet thicknesses: 20 mm (base), 10 mm (walls), 5 mm (partitions + cup discs), 3 mm (lid).
 
 ---
 

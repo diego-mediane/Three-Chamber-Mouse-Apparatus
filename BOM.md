@@ -8,6 +8,22 @@
 
 ---
 
+## ⚠️ Fabrication Requirements
+
+Most parts can be made with standard workshop tools. Only the base requires specialist cutting:
+
+- **Base (A):** the perimeter wall slot, two internal partition slots, and the two Ø 102 mm cup recesses must be routed or milled to exact depth — this is the only part that needs a workshop router or CNC machine
+- **Partition walls (D):** the arched mouse passage can be cut with a jigsaw or bandsaw and sanded smooth
+- **Wall panels (B, C):** straight cuts from IR acrylic sheet — table saw or circular saw
+- **Perforated parts (F, H):** evenly spaced rod holes — drill press is sufficient
+- **Lid disc (I):** single off-centre hole near edge — drill press
+- **All other parts:** standard cuts from sheet
+
+> **Recommended material:** IR-transparent black acrylic (e.g. Perspex Black 9T31 or equivalent).  
+> Sheet thicknesses: 20 mm (base), 10 mm (walls), 5 mm (partitions + cup discs), 3 mm (lid).
+
+---
+
 ## A · Base Panel
 
 | Parameter | Value |
