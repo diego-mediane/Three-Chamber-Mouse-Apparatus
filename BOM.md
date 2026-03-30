@@ -12,7 +12,11 @@
 
 Most parts can be made with standard workshop tools. Only the base requires specialist cutting:
 
-- **Base (A):** the perimeter wall slot, two internal partition slots, and the two Ø 102 mm cup recesses must be routed or milled to exact depth — this is the only part that needs a workshop router or CNC machine
+- **Base (A):** four features need precision routing or milling to exact width and depth:
+  - The **continuous perimeter wall slot** running around the full inner edge of the base (accepts all four outer wall panels)
+  - Two **internal partition slots** running the full depth of the base (accept the two partition walls)
+  - Two **Ø 102 mm cup recesses** near the back wall (seat the cup assemblies)
+  - This is the only part that requires a workshop router, mill, or CNC machine
 - **Partition walls (D):** the arched mouse passage can be cut with a jigsaw or bandsaw and sanded smooth
 - **Wall panels (B, C):** straight cuts from IR acrylic sheet — table saw or circular saw
 - **Perforated parts (F, H):** evenly spaced rod holes — drill press is sufficient

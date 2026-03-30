@@ -59,7 +59,7 @@ Most of this apparatus can be built with standard workshop tools. Here is what e
 
 | Part | What's needed |
 |---|---|
-| Base (A) | **Workshop/CNC required** — the perimeter wall slot, two internal partition slots, and two Ø 102 mm cup recesses must be routed or milled to exact depth. This is the only part that truly needs specialist cutting. |
+| Base (A) | **Workshop/CNC required** — four features need precision routing or milling: (1) the continuous perimeter wall slot around the inner edge (accepts all four outer walls), (2) two internal partition slots running full depth, (3) two Ø 102 mm cup recesses near the back wall. These slots and wells must be cut to exact width and depth — this is the only part that truly needs specialist cutting. |
 | Partition walls (D) | Standard workshop — the arched mouse passage can be cut with a jigsaw or bandsaw and sanded smooth |
 | Wall panels (B, C) | Simple straight cuts from IR acrylic sheet — table saw or circular saw |
 | Perforated plates (F, H) | Drill press — evenly spaced holes around the circumference |
