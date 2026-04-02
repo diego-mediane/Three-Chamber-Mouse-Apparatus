@@ -216,6 +216,12 @@ This project is released under a **Custom Attribution Non-Commercial Licence**.
 
 See [LICENCE.md](./LICENCE.md) for full terms.
 
+## Acknowledgements
+
+This tool was developed as part of a broader project on behavioural neuroscience.
+Special thanks to **Dr Riccardo Avvisati** and **Dr Daniel Titheradge** for their
+guidance and support during the design of the experimental apparatus.
+
 ### Mandatory Citation
 
 If you use this apparatus or any part of it in your research, **you must cite:**
